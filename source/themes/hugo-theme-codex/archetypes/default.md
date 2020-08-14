@@ -1,5 +1,5 @@
 ---
-title: "{{ title }}"
+title: ""
 description: ""
 date: {{ .Date }}
 keywords: []
