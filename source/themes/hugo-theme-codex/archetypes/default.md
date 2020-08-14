@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: ""
 description: ""
 date: {{ .Date }}
 keywords: []
