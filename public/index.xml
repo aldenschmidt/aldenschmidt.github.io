@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>birch.gg</title>
+    <title>alden.io</title>
     <link>https://aldenschmidt.github.io/</link>
-    <description>Recent content on birch.gg</description>
+    <description>Recent content on alden.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
@@ -17,7 +17,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aldenschmidt.github.io/about/</guid>
-      <description>My name is Alden Schmidt, I also go by birch.  I&#39;m a freshman studying CS at the University of Maryland. I focus mostly on security and dabble in finance.</description>
+      <description> My name is Alden Schmidt, I also go by birch.  I&#39;m a sophomore CS major at the University of Maryland. Currently&amp;hellip;
+ Undergrad security researcher @ Breakerspace working on the VPing project Treasurer of our Cybersecurity Club UMDCSEC Exec Finance Director for UMD&#39;s startup incubator Startup Shell Instructor for CMSC388U Intro to Ethical Hacking  </description>
     </item>
     
   </channel>

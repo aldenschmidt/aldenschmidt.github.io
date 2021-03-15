@@ -2,7 +2,7 @@
 theme = "hugo-theme-codex" 
 
 # Override these settings with your own
-title = "birch.gg"
+title = "alden.io"
 languageCode = "en-us"
 baseURL = "https://aldenschmidt.github.io"
 copyright = "© {year}"

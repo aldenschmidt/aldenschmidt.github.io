@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on alden.io</title>
+    <link>https://aldenschmidt.github.io/blog/</link>
+    <description>Recent content in Blogs on alden.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Fri, 14 Aug 2020 04:18:21 -0400</lastBuildDate>
+    
+	<atom:link href="https://aldenschmidt.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test post... plz work</title>
+      <link>https://aldenschmidt.github.io/blog/first-post/</link>
+      <pubDate>Fri, 14 Aug 2020 04:18:21 -0400</pubDate>
+      
+      <guid>https://aldenschmidt.github.io/blog/first-post/</guid>
+      <description>Hey lite plz like my content.</description>
+    </item>
+    
+  </channel>
+</rss>
